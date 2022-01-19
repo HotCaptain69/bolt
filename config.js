@@ -1,23 +1,23 @@
 module.exports = {
-    "registercommands" : false,
-     "token": "OTA0NTgzMjEzODkxMDcyMDkx.YX9oxA.rIy-43VNUKzLv5x82KgJujuaQEs",
-    "imageapi": "bb03f373caa534fcfcbaeae177a65134f44a6e57ba7a7b098be273867b376d8a677ddae3c23c6ded4fec8288573945e8c3483689deb13f229376ad4b5b60231d",
-    "ownerID": ["856719601562550282"],
+    "registercommands" : false, //dont change
+     "token": "ur token",
+    "imageapi": "ur api",
+    "ownerID": ["ur id"],
 "prefix": "??",
 "chat": {
-        "url": "http://api.brainshop.ai/get?bid=155777&key=O0Rla6COZJ8XSGPJ&uid=[uid]&msg=[msg]",
-        "bid": "155777",
-        "key": "O0Rla6COZJ8XSGPJ",
+        "url": "ur url, //get it from brainshop.io
+        "bid": "l",
+        "key": "",
         "uid": "nothing."
     },
     "bid": "874338511464046622",
 
-"api": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",
-"youtubeAPI": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",
+"api": "", //youtube api
+"youtubeAPI": "", //youtube api
 mainprefix: "??",
 "owner": "</Captain>",
-"mongourl": "mongodb+srv://099:099@cluster0.kjeqb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-"secret": "TKDHwzyl2iieCPgq9mp4O5gttwqEOm1c",
+"mongourl": "", //ur mongodb url
+"secret": "", //bot secret
  "dashboardURL": "if you have",
 defaultjoinmessage: "{user} Joined Invited By {Inviter} (Inviter Invites: {inv})",
 defaultleavemessage: "{user} Left, Invited by {inviter}",
