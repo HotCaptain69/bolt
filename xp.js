@@ -406,7 +406,7 @@ fs.readdir("./events/", (err, files) => {
   });
 });
 
-client.slashCommandList = new Collection();
+
 if(config.registercommands === true) {
 async function registerSlashCommands(dir) {;
     fs.readdir(path.join(__dirname, dir), async (err, files) => {
