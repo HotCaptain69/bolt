@@ -10,7 +10,7 @@ module.exports = {
 
     var prefix = db.fetch(`guildprefix_${message.guild.id}`);
     if (!prefix) {
-      var prefix = ".";
+      var prefix = "??";
     }
     const roleColor =
       message.guild.me.displayHexColor === "#000000"
@@ -59,7 +59,7 @@ module.exports = {
         .addField("** <a:dc_mod:932272341533216829>  BOT CODE INFO**", "`dependencies`, `modules`, `servers`, `stats`, `uptime`\n\**<a:spy_lastwarning:932272525046607983>  GENERAL INFO**\n`djs`, `help`, `invite`, `links`, `ping`, `serverstats`, **`privacy`**\n\n** <a:dev:927212995514335323> ** **OWNERS**\n`shell`, `control`, `eval`, `usage`\n\n  <:PZ73_codm_guessiwill:932270090009866351>   **Guessing Games** \n `find-words`, `guess-number`, `lovecalc`\n\n **<:goldmod:932273721203367966> Anti Bad Words**\n `anti-badwords`")
 
 
-        .addField("**  <:Modbadge:932270289910366220>  AUTOMOD**", "`anti-alt`, `antilink`, `autonick`, `auto-official-role`, `auto-official-role-disable`, `autorole`, `role-all`\n\n**<a:H_laughh1:932272728478740510>  FUN**\n`afk`, `animesearch`, `ascii`, `baka`, `beep`, `dumb`, `calc`, `cattext`, `dice`, `eightball`, `flipcoin`, `fliptext`, `hack`, `iq`, `joke`, `kill`, `messages`, `poke`, `poll`, `ratewaifu`, `rps`, `sneeze`, `waifu`, `youtube`, `zalgo`\n\n ** <a:ff_fbiopen:932273219698831451> Information Of People**\n `Profile`\n\n **<a:Verified:932273478046986322> Biography**\n `set-bio`, `bio-reset`, `check-bio`\n\n **<a:gamer1:927213466450812928> Custom Commands**\n `cc-create`, `cc-delete`, `cc-list`")
+        .addField("**  <:Modbadge:932270289910366220>  AUTOMOD**", "`anti-alt`, `antilink`, `autonick`, `auto-official-role`, `auto-official-role-disable`, `autorole`, `role-all`\n\n**<a:H_laughh1:932272728478740510>  FUN**\n`afk`, `animesearch`, `ascii`, `baka`, `beep`, `dumb`, `calc`, `cattext`, `dice`, `eightball`, `flipcoin`, `fliptext`, `hack`, `iq`, `joke`, `kill`, `messages`, `poke`, `poll`, `ratewaifu`, `rps`, `sneeze`, `waifu`, `youtube`, `zalgo`\n\n`**<a:Verified:932273478046986322> Biography**\n `set-bio`, `bio-reset`, `check-bio`\n\n **<a:gamer1:927213466450812928> Custom Commands**\n `cc-create`, `cc-delete`, `cc-list`")
 
 
         .addField("**<a:level_up:932272142370897921>LEVEL**", "`rank`\n\n**<a:log:927212646346932325> LOGS**\n`logs-ticket`, `set-logs`, `remove-logs`\n\n**<a:Blg_WhiteMusic:932272961539428412> MUSIC**\n`24/7`, `bassboost`, `dc`, `connect`, `lyrics`, `np`, `pause`, `play`, `queue`, `resume`, `shuffle`, `skip`, `stop`, `volume`\n\n** <a:bug:926496483841286194>  REPORT**\n`suggest`, `bug-report`")
@@ -134,4 +134,4 @@ module.exports = {
   },
 };
 
-      //made by aditya codez
+      
