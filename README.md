@@ -1,4 +1,4 @@
-__FUCK__
+__ThatS Bolt__
 ```xml
 < BOLT OP >
 ```
@@ -7,4 +7,7 @@ __FUCK__
 ```
 <a href="https://top.gg/bot/904583213891072091">
   <img src="https://top.gg/api/widget/904583213891072091.svg">
+</a>
+<a href="https://voidbots.net/bot/904583213891072091/"
+  <img src="https://voidbots.net/api/embed/904583213891072091">
 </a>
