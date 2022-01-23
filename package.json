@@ -1,5 +1,5 @@
 {
-  "name": "luminiousbot",
+  "name": "Bolt",
   "version": "1.0.0",
   "description": "An advanced Discord bot with a lot commands - for moderation, fun, NSFW and status.",
   "author": "CAPTAIN",
@@ -112,7 +112,7 @@
     "url": "https://github.com/Wumpuspro/Luminious-bot/"
   },
   "bugs": {
-    "url": "https://github.com/Wumpuspro/Luminious-bot//issues"
+    "url": "https://github.com/HotCaptain69/bolt//issues"
   },
   "license": "MIT",
   "keywords": [
